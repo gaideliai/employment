@@ -1,0 +1,11 @@
+{
+    "name": "anna/employment",
+    "description": "Employment app",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {}
+}
